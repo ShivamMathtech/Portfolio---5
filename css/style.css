@@ -1,0 +1,141 @@
+.main-cont {
+  background-color: #0e0e0e0e;
+}
+
+.home-container {
+  background-color: #131313;
+}
+.about-container {
+  height: 600px;
+  background-color: #070707;
+}
+.resume-container {
+  height: 600px;
+  background-color: #131313;
+}
+.service-container {
+  height: 700px;
+  background-color: #131313;
+}
+.skill-container {
+  height: 500px;
+  background-color: #080807;
+}
+.work-container {
+  height: 800px;
+  background-color: #131313;
+}
+.testmonal-container {
+  height: 400px;
+  background-color: #070707;
+}
+.Pricing-container {
+  height: 500px;
+  background-color: #131313;
+}
+.contact-container {
+  height: 400px;
+  background-color: #131313;
+}
+.blog-container {
+  height: 300px;
+  background-color: #070707;
+}
+.client-container {
+  height: 400px;
+  background-color: #161616;
+}
+.footer-container {
+  height: 300px;
+  background-color: #070707;
+}
+.fnav-container {
+  height: 100px;
+  background-color: #131313;
+}
+.header {
+  height: 100px;
+}
+.nav-link {
+  color: white;
+  font-size: 1.3em;
+}
+.fa-bars {
+  background-color: yellow;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  border-radius: 50px;
+}
+
+.hello {
+  font-size: 1.7em;
+  color: #5b5b5b;
+}
+.shivam {
+  font-size: 1.9em;
+  font-weight: 700;
+  color: #c0de41;
+}
+.btn-warning {
+  background-color: #c0de41;
+  width: 100px;
+}
+.img-t-box {
+  height: 500px;
+  background-image: url("img/titlebg.png");
+}
+.exp-box {
+  background-color: #070707;
+  border-radius: 10px;
+  width: 200px;
+  box-sizing: border-box;
+}
+.ct {
+  color: #c0de41;
+}
+.vertical-navigation {
+  background-color: #222222;
+  border-radius: 10px;
+}
+.about-img-box {
+  height: 570px;
+  background: url("img/aboutimg.jfif");
+}
+.ps {
+  color: #c0de41;
+}
+.contact-inlie-box {
+  height: 100px;
+  background-color: #282828;
+  border-radius: 10px;
+}
+.start-box {
+  height: 150px;
+  width: 150px;
+  border-radius: 150px;
+  background-color: #1e1e1e;
+}
+.star {
+  font-size: 12em;
+  color: #c0de41;
+  line-height: 150px;
+}
+.box-of-exp {
+  height: 300px;
+  background-color: #1e1e1e;
+  border-radius: 4px;
+}
+.b-1 {
+  height: 120px;
+  border: 1px solid #c0de41;
+  border-radius: 10px;
+  background-color: #1f1f1f;
+}
+.img-skill {
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+  background: url("img/fug.png");
+}
