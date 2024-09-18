@@ -139,3 +139,6 @@
   border-radius: 5px;
   background: url("img/fug.png");
 }
+.fnav {
+  line-height: 50px;
+}
